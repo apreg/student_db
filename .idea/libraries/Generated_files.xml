@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/app/bower_components/ember-table/src/main.js" />
+        <item url="file://$PROJECT_DIR$/app/bower_components/ember-table/src/component.js" />
+        <item url="file://$PROJECT_DIR$/app/bower_components/ember-table/src/views.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/bower_components/ember-table/src/main.js" />
+      <root url="file://$PROJECT_DIR$/app/bower_components/ember-table/src/component.js" />
+      <root url="file://$PROJECT_DIR$/app/bower_components/ember-table/src/views.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
