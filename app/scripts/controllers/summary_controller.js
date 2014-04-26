@@ -94,11 +94,13 @@ App.SummaryController = Ember.Controller.extend({
             this.transitionToRoute('summary');
         },
         save: function () {
+            /*
             var softDeletedRecords = this.store.allSoftDeleted();
             forEach(softDeletedRecords, function(record){
                 record.save();
                 //record.rollback();
             })
+            */
         }
     }
 
