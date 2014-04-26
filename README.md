@@ -18,5 +18,6 @@ open: {
 			
         },
 ```
+<del>
 To make the Save button work correctly you need to change the ember-data.js found in app/bower_components/ember-data
-to the one can be found in the root folder of the application.
+to the one can be found in the root folder of the application.</del>My patch is not done yet.
