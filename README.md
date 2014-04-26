@@ -1,4 +1,9 @@
 student_db
 ==========
 
-Little tryout with ember.js and statecharts.
+To start use these commands
+```bat
+bower install
+npm install
+```
+
