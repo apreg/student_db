@@ -3,9 +3,9 @@ student_db
 
 To start use these commands
 ```bat
-bower install
-npm install
-grunt serve
+$ bower install
+$ npm install
+$ grunt serve
 ```
 Note that it tries to open the app in Chrome
 ```javascript
